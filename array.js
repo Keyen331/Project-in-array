@@ -26,3 +26,22 @@ var donut = {
   shape : "square",
   count : 12
 }
+
+function dumbDumb(x){
+  console.log(x[0] + x[3]);
+}
+
+dumbDumb(numbers);
+
+
+function bagtit(lit){
+  for (var i = 0; i <= lit.length; i++) {
+    console.log("I like " + i + " inches.");
+  }
+}
+
+bagtit(numbers);
+
+function apo(lot){
+  if (lot == ) {}
+}
